@@ -29,7 +29,7 @@
 
 #### Example 1
 
-![k-SPTP example](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\k-SPTP example.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/k-SPTP%20example.png)
 
 ```python
 if __name__ == '__main__':
@@ -190,21 +190,21 @@ if __name__ == '__main__':
 
 ##### Output
 
-![1](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\1.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/1.png)
 
-![2](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\2.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/2.png)
 
-![3](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\3.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/3.png)
 
-![4](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\4.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/4.png)
 
-![5](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\5.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/5.png)
 
-![6](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\6.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/6.png)
 
-![7](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\7.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/7.png)
 
-![8](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest path tour problem\8.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-path-tour-problem/blob/main/8.png)
 
 ```python
 [
