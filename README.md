@@ -1,4 +1,4 @@
-### The Ripple-Spreading Algorithm for the k Shortest Path Problem
+### The Ripple-Spreading Algorithm for the k Shortest Path Tour Problem
 
 ##### The shortest path tour problem (SPTP) aims to find the shortest path that traverses multiple disjoint node subsets in a given order. The *k*-SPTP aims to find the k shortest paths for the SPTP.
 
